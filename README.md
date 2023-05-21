@@ -1,5 +1,5 @@
 # Chip-8 Emulator
-A Chip-8 Emulator Written in C
+A Chip-8 Emulator Written in C & Raylib
 
 Passes all flags and quirks except for display wait functionality (not needed for most roms)
 
