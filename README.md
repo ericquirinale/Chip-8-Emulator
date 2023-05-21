@@ -1,5 +1,5 @@
-# chip8emulator
-Chip-8 8 Emulator Written in C
+# Chip-8 Emulator
+A Chip-8 Emulator Written in C
 
 Passes all flags and quirks except for display wait functionality (not needed for most roms)
 
